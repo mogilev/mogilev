@@ -35,8 +35,8 @@ href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="norefer
 
 
 <details align="center">
- <summary align="center"><b>⚡Stats</b></summary><br>
-    <a href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="noreferrer"> <img alt="Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogilev&layout=compact&hide=HTML&count_private=True&theme=vue-dark"></a>
+        <summary align="center"><b>⚡Stats</b></summary><br>
+    <p align="center"><a href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="noreferrer"> <img alt="Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogilev&layout=compact&hide=HTML&count_private=True&theme=vue-dark"></a></p>
 </details>
 
 
