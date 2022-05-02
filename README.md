@@ -21,7 +21,7 @@ href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="norefer
 href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="noreferrer"> <img alt="Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"></a> <a 
 href="https://github.com/mogilev?tab=repositories&q=&type=&language=java&sort=" target="_blank"  rel="noreferrer"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=intellij-idea"></a><a 
 href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="noreferrer"> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat-square&logo=eclipse"></a><a 
-href="https://github.com/search?q=user%Mogilev+language%3Apython" target="_blank"  rel="noreferrer"> <img alt="Pycharm" src="https://img.shields.io/badge/PYcharm-000000?style=flat-square&logo=pycharm"></a><a 
+href="https://github.com/mogilev?tab=repositories&q=&type=&language=python&sort=" target="_blank"  rel="noreferrer"> <img alt="Pycharm" src="https://img.shields.io/badge/PYcharm-000000?style=flat-square&logo=pycharm"></a><a 
 href="https://github.com/Mogilev?tab=repositories" target="_blank"  rel="noreferrer"> <img alt="GNU Emacs" src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white"></a>
 </samp></h3>
 
